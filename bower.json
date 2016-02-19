@@ -1,0 +1,21 @@
+{
+  "name": "jquery.ajax.binary",
+  "version": "0.0.0",
+  "authors": [
+    "yaroslav <senko.yaroslav@gmail.com>"
+  ],
+  "main": "jquery.ajax.binary.js",
+  "keywords": [
+    "jquery",
+    "ajax",
+    "binary"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
