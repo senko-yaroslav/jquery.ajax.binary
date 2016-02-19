@@ -4,7 +4,9 @@
   "authors": [
     "yaroslav <senko.yaroslav@gmail.com>"
   ],
-  "main": "jquery.ajax.binary.js",
+  "main": [
+    "jquery.ajax.binary.js"
+  ],
   "keywords": [
     "jquery",
     "ajax",
